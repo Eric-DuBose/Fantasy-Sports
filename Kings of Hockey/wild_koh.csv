@@ -1,0 +1,53 @@
+Player,Team,Position,Status,Age,Salary,Comment,GP,G,A,PIM,SOG,GWG,PPP,SHP,Hit,Blk,FOW
+Aleksander Barkov,FLA,C,Act,25,7750000,,50,26,32,14,176,6,19,1,31,37,563
+Patrice Bergeron,BOS,C,Act,36,4375000,,54,23,25,16,182,3,13,4,49,36,714
+Philipp Kurashev,CHI,C,Act,21,892500,,54,8,8,12,65,1,5,0,32,18,102
+Michael McLeod,NJD,C,Act,23,950000,EXT?,52,9,6,42,60,2,0,0,89,20,326
+Anthony Beauvillier,NYI,LW,Act,24,2400000,RFA,47,15,13,12,109,5,4,0,39,13,2
+Teddy Blueger,PIT,C,Act,26,2000000,EXT?,43,7,15,16,49,1,0,3,53,25,201
+Tanner Pearson,VAN,LW,Act,28,2500000,EXT?,51,10,8,26,110,2,3,1,54,28,6
+Tomas Tatar,MTL,LW,Act,30,4200000,UFA,50,10,20,8,82,1,8,0,63,20,12
+Nick Foligno,TOR,C,Act,33,5500000,UFA,49,7,13,32,81,0,2,3,133,37,117
+Mikael Granlund,NSH,C,Act,29,3750000,UFA,51,13,14,14,74,1,7,0,46,42,243
+Craig Smith,BOS,RW,Act,31,3000000,,54,13,19,18,132,4,6,0,66,8,10
+Ryan Strome,NYR,C,Act,28,5000000,,56,14,35,39,128,1,18,2,22,18,321
+Joel Edmundson,MTL,D,Act,28,3500000,,55,3,10,25,77,0,0,0,98,75,0
+Alex Goligoski,ARI,D,Act,35,4000000,UFA,56,3,19,14,72,0,7,0,76,108,0
+Victor Hedman,TBL,D,Act,30,8000000,,54,9,36,28,136,2,24,0,51,73,0
+Rasmus Ristolainen,PHI,D,Act,26,5400000,,49,4,14,36,73,0,7,0,193,68,0
+David Savard,TBL,D,Act,30,4000000,UFA,54,1,5,24,69,1,0,1,132,109,0
+Nikita Zaitsev,OTT,D,Act,29,4500000,,55,4,13,26,70,1,0,1,114,110,0
+Adrian Kempe,LAK,C,Act,24,2500000,,56,14,15,28,127,2,14,1,47,21,27
+Jaret Anderson-Dolan,LAK,C,Res,21,700000,X - RFA,34,7,4,6,37,2,1,0,52,20,132
+Jesper Boqvist,NJD,C,Res,22,925000,,28,4,3,2,34,1,0,0,15,10,28
+Andrew Copp,WPG,C,Res,27,2300000,RFA,55,15,24,20,115,1,12,1,67,41,123
+Claude Giroux,PHI,C,Res,33,5000000,,54,16,27,12,120,2,11,0,32,6,484
+Scott Laughton,PHI,C,Res,27,2250000,EXT?,53,9,11,39,89,1,0,1,141,34,211
+Chris Tierney,OTT,C,Res,27,4200000,,55,6,13,8,53,3,0,1,23,32,269
+Carter Verhaeghe,FLA,C,Res,25,1100000,,43,18,18,31,107,3,2,1,33,14,23
+Dante Fabbro,NSH,D,Res,23,925000,RFA,40,2,10,23,59,1,2,0,32,57,0
+Adam Brooks,TOR,C,Min,25,750000,X,11,4,1,0,10,0,1,1,14,2,7
+Rourke Chartier,TOR,C,Min,25,700000,X - RFA,0,0,0,0,0,0,0,0,0,0,0
+Filip Chlapik,OTT,C,Min,24,735000,X - RFA,1,0,0,0,1,0,0,0,1,0,0
+Raphael Lavoie,EDM,C,Min,20,892500,X,0,0,0,0,0,0,0,0,0,0,0
+John Quenneville,SEA,C,Min,25,800000,X - RFA,0,0,0,0,0,0,0,0,0,0,0
+Dominic Turgeon,DET,C,Min,25,750000,X - RFA,0,0,0,0,0,0,0,0,0,0,0
+Brayden Burke,LAK,LW,Min,24,925000,X - RFA,0,0,0,0,0,0,0,0,0,0,0
+Nolan Foote,NJD,LW,Min,20,925000,X,6,1,1,0,5,0,0,0,5,1,0
+Joel Kiviranta,DAL,LW,Min,25,925000,X - RFA,26,6,5,6,31,0,1,0,40,11,1
+Matthew Strome,PHI,LW,Min,22,842500,X - RFA,0,0,0,0,0,0,0,0,0,0,0
+Evgeny Svechnikov,DET,LW,Min,24,874125,X,22,3,5,10,21,1,2,0,20,6,1
+Daniel Torgersson,WPG,LW,Min,19,500000,X,0,0,0,0,0,0,0,0,0,0,0
+Dennis Yan,(N/A),LW,Min,24,700000,X - RFA,0,0,0,0,0,0,0,0,0,0,0
+Brandon Coe,SJS,RW,Min,19,500000,X,0,0,0,0,0,0,0,0,0,0,0
+Luke Evangelista,NSH,RW,Min,19,842500,X,0,0,0,0,0,0,0,0,0,0,0
+Julien Gauthier,NYR,RW,Min,23,775000,X,30,2,6,14,38,0,0,0,56,9,4
+Nikita Korostelyov,CBJ,RW,Min,24,500000,X,0,0,0,0,0,0,0,0,0,0,0
+Nikolai Kovalenko,COL,RW,Min,21,500000,X,0,0,0,0,0,0,0,0,0,0,0
+Vladimir Kuznetsov,(N/A),RW,Min,23,500000,X,0,0,0,0,0,0,0,0,0,0,0
+Jack Quinn,BUF,RW,Min,19,925000,X,0,0,0,0,0,0,0,0,0,0,0
+Alexander Volkov,ANA,RW,Min,23,925000,X,37,7,6,6,35,0,1,0,36,26,2
+Tobias Bjornfot,LAK,D,Min,20,925000,X,33,1,5,14,30,0,0,0,28,34,0
+Sean Durzi,LAK,D,Min,22,842500,X,0,0,0,0,0,0,0,0,0,0,0
+Andrew Peeke,CBJ,D,Min,23,925000,X - RFA,11,0,3,4,5,0,0,0,35,15,0
+Antti Tuomisto,DET,D,Min,20,500000,X,0,0,0,0,0,0,0,0,0,0,0
